@@ -1,2 +1,2 @@
-I (Lorenzo) plan on riding my bike, and eating spaghetti. 
+I (Lorenzo) plan on eating spaghetti. 
 Lisa says: Gonna binge watch Sword Art Online probably
