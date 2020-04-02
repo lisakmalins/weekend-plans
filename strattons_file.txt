@@ -1,0 +1,37 @@
+[33mcommit cc2ae241e9b077bf8b987afc17b332844d3a867a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 605f623 2d2b543
+Author: Stratton <georgoulis@ucdavis.edu>
+Date:   Thu Apr 2 23:35:23 2020 +0000
+
+    Merge branch 'master' of https://github.com/lisakmalins/weekend-plans
+
+[33mcommit 605f623659438f1ea484efc682ea20da8f125280[m
+Author: Stratton <georgoulis@ucdavis.edu>
+Date:   Thu Apr 2 23:31:28 2020 +0000
+
+    Added weekend plans
+
+[33mcommit 2d2b543a6319ad25e9561636f29d7d6a2d2765d1[m
+Merge: 0af49dc 1792ddd
+Author: Lisa Malins <lkmalins@ucdavis.edu>
+Date:   Thu Apr 2 23:26:13 2020 +0000
+
+    Merged branch lisa into master
+
+[33mcommit 1792ddd53199a6d16900f339e22b6aad5b3a16a6[m
+Author: Lisa Malins <lkmalins@ucdavis.edu>
+Date:   Thu Apr 2 23:25:05 2020 +0000
+
+    Lisa added her plans
+
+[33mcommit 0af49dc606b19af1f274197f5d0f9c80112bc1b5[m
+Author: Lorenzo <lcontolini@ucdavis.edu>
+Date:   Thu Apr 2 23:20:54 2020 +0000
+
+    I added my weekend plans
+
+[33mcommit d23ff475096e1fde45e1f9130537bfdfb119a5e5[m
+Author: Lisa Malins <lkmalins@ucdavis.edu>
+Date:   Thu Apr 2 23:11:20 2020 +0000
+
+    Added README.md
